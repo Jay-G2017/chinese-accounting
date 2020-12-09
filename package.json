@@ -1,7 +1,7 @@
 {
-  "name": "chinese-accounting",
+  "name": "npm-package-demo-for-understand-import",
   "version": "0.1.0",
-  "description": "accounting utils, like convert money to chinese format",
+  "description": "a demo package for understanding export and import",
   "main": "index.js",
   "scripts": {
     "test": "npm run test"
