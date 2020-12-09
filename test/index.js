@@ -1,3 +1,5 @@
-const moneyToChinese = require('../index')
+const demo = require("../index");
+const printB = require("../components/printB");
 
-console.log(moneyToChinese(1234))
+demo.printA();
+printB();

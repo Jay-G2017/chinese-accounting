@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "accounting utils, like convert money to chinese format",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "npm run test"
   },
